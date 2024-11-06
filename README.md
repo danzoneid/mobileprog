@@ -1,7 +1,10 @@
 # tubesku
 
 A new Flutter project.
-https://github.com/danzoneid/mobileprog/blob/7d000d7a93206bd442179d24fb149cef75550c39/record.mp4
+
+[yusuf danda purwanto record video](https://github.com/user-attachments/assets/ee8adb23-68ce-4502-a9d3-8322e4a32fc2)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
